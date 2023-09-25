@@ -30,3 +30,11 @@ ul {
     justify-content: space-between;
     align-items: center;
 }
+
+.default-link {
+    border-bottom: 3px solid transparent;
+}
+
+.active-link {
+    border-bottom: 3px solid white;
+}
